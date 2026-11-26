@@ -1,4 +1,4 @@
-public class Day5_1 {
+public class TypeCasting {
     public static void main(String[] args) {
         short a = 55;
         byte b;

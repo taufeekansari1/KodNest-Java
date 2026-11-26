@@ -1,4 +1,4 @@
-public class Day6_2 {
+public class IfElseStatement {
     public static void main(String[] args) {
         int num = -8;
         if (num > 0) {

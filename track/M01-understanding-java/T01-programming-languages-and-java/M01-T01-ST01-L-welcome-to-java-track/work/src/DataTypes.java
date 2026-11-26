@@ -1,4 +1,4 @@
-public class Day4 {
+public class DataTypes {
     public static void main(String[] args) {
         System.out.println("Student Information");
         System.out.println("--------------------");

@@ -1,4 +1,4 @@
-public class Day6_3 {
+public class IfElse {
     public static void main(String[] args) {
         int num = 0;
         if (num > 0) {

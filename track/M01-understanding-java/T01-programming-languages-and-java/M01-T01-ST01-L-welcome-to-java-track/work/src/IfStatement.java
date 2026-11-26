@@ -1,4 +1,4 @@
-public class Day6_1 {
+public class IfStatement {
     public static void main(String[] args) {
         int a = 20;
         if (a > 10) {

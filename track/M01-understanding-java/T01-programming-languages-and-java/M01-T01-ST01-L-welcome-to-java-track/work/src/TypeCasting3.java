@@ -1,4 +1,4 @@
-public class Day5_3 {
+public class TypeCasting3 {
 
     public static void main(String[] args) {
         double a = 98765.456;
